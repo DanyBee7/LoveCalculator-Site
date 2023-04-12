@@ -1,0 +1,27 @@
+body {
+    background-color: pink;  
+    margin-top: 40px;
+}
+
+h2 {
+    color: red;
+}
+
+.top-container {
+    text-align: center;
+
+}
+
+.middle-container {
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.bottom-container {
+    margin-left: 20px;
+    position: relative;
+    top: 220px;
+
+}
+
